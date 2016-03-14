@@ -92,3 +92,8 @@ from scrapy.spiders import CrawlSpider
 ~~~python
 class AppleCrawler(CrawlSpider):
 ~~~
+
+Syntax for MarkDown (readme.rd)
+------------------------------
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
