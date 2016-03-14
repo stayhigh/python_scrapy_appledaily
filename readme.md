@@ -1,4 +1,4 @@
-Python Scrapy for crawling apply daily news
+Python Scrapy for crawling apple daily news
 =============================================
 
 Why this project?
