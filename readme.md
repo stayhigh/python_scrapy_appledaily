@@ -26,12 +26,12 @@ Tools for this project
 How it works?
 ---------------------------
 
-###開啟apple新的scrapy專案###
+### 開啟apple新的scrapy專案 ###
 ~~~bash
 stayhigh@stayhighnet:/Users/stayhigh/projects/apple  $  scrapy startproject apple
 ~~~
 
-###執行apple的scrapy專案###
+### 執行apple的scrapy專案 ###
 
 ~~~shell
 stayhigh@stayhighnet:/Users/stayhigh/projects/apple  $  scrapy crawl apple
